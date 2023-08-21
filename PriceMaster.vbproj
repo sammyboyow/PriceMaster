@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BF17CA0-8283-4A79-9B17-56F29D260340}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PriceMaster.My.MyApplication</StartupObject>
+    <RootNamespace>PriceMaster</RootNamespace>
+    <AssemblyName>PriceMaster</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PriceMaster.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <Prefer32Bit>true</Prefer32Bit>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PriceMaster.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PriceMaster.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>PriceMaster.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PriceMaster.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>PriceMaster.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>money_ebG_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.18, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\DotNetBar for Windows Forms\DevComponents.DotNetBar2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=14.1.0.18, Culture=neutral, PublicKeyToken=f90dc37c26666a67, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=2.122.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\app\client\Administrator\product\12.2.0\client_1\ODP.NET\bin\2.x\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BASIC_PRICE_LEVEL\frmBasicPriceLvl.Designer.vb">
+      <DependentUpon>frmBasicPriceLvl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmBasicPriceLvl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmModBasicPriceLvl.Designer.vb">
+      <DependentUpon>frmModBasicPriceLvl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmModBasicPriceLvl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmPriceLvlProfile.Designer.vb">
+      <DependentUpon>frmPriceLvlProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmPriceLvlProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmPriceLvlProfileMntnc.Designer.vb">
+      <DependentUpon>frmPriceLvlProfileMntnc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmPriceLvlProfileMntnc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmSelectBasicPrice.Designer.vb">
+      <DependentUpon>frmSelectBasicPrice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmSelectBasicPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmSelectTest.Designer.vb">
+      <DependentUpon>frmSelectTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmSelectTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLASSES_MODULES\ApplicationEvents.vb" />
+    <Compile Include="ITEM_MASTERH\BATCH_LIST.Designer.vb">
+      <DependentUpon>BATCH_LIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\BATCH_LIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmSelBscPrcLvl.Designer.vb">
+      <DependentUpon>frmSelBscPrcLvl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BASIC_PRICE_LEVEL\frmSelBscPrcLvl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmIMH_IMPORT.Designer.vb">
+      <DependentUpon>frmIMH_IMPORT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmIMH_IMPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmImprtBscPrice.Designer.vb">
+      <DependentUpon>frmImprtBscPrice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmImprtBscPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmUpdatePatch.Designer.vb">
+      <DependentUpon>frmUpdatePatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmUpdatePatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmViewIMHComp.Designer.vb">
+      <DependentUpon>frmViewIMHComp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmViewIMHComp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SENDIN SPLIST\frmSendOutSplistMaintenance.Designer.vb">
+      <DependentUpon>frmSendOutSplistMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SENDIN SPLIST\frmSendOutSplistMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST MASTER LIST\frmSPlistMasterList.Designer.vb">
+      <DependentUpon>frmSPlistMasterList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST MASTER LIST\frmSPlistMasterList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmCopyMultiTestcode.Designer.vb">
+      <DependentUpon>frmCopyMultiTestcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmCopyMultiTestcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmBasicPrice.Designer.vb">
+      <DependentUpon>frmBasicPrice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmBasicPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmConfig_Udpate.Designer.vb">
+      <DependentUpon>frmConfig_Udpate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmConfig_Udpate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmCopy.Designer.vb">
+      <DependentUpon>frmCopy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmCopy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmCopyTestcode.Designer.vb">
+      <DependentUpon>frmCopyTestcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmCopyTestcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmDTIList.Designer.vb">
+      <DependentUpon>frmDTIList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmDTIList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmExpGrp.Designer.vb">
+      <DependentUpon>frmExpGrp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmExpGrp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmExportBasic.Designer.vb">
+      <DependentUpon>frmExportBasic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmExportBasic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmGenExcept.Designer.vb">
+      <DependentUpon>frmGenExcept.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmGenExcept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmGEN_SPLIST.Designer.vb">
+      <DependentUpon>frmGEN_SPLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmGEN_SPLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmIMH_Historical.Designer.vb">
+      <DependentUpon>frmIMH_Historical.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmIMH_Historical.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmImportIMH.Designer.vb">
+      <DependentUpon>frmImportIMH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmImportIMH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmMD_IMH.Designer.vb">
+      <DependentUpon>frmMD_IMH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmMD_IMH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmMD_SPLIST.Designer.vb">
+      <DependentUpon>frmMD_SPLIST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmMD_SPLIST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmPackage.Designer.vb">
+      <DependentUpon>frmPackage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmPackage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmPriceList.Designer.vb">
+      <DependentUpon>frmPriceList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmPriceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmPriceUpdateSceme.Designer.vb">
+      <DependentUpon>frmPriceUpdateSceme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmPriceUpdateSceme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmSingle.Designer.vb">
+      <DependentUpon>frmSingle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmSingle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmSingleIMH.Designer.vb">
+      <DependentUpon>frmSingleIMH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ITEM_MASTERH\frmSingleIMH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSPExp.Designer.vb">
+      <DependentUpon>frmSPExp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSPExp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmSplash.designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSPLIST_REPORT.Designer.vb">
+      <DependentUpon>frmSPLIST_REPORT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSPLIST_REPORT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSPPrv.Designer.vb">
+      <DependentUpon>frmSPPrv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSPPrv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSyncPriceList.Designer.vb">
+      <DependentUpon>frmSyncPriceList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmSyncPriceList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmUserMaint.Designer.vb">
+      <DependentUpon>frmUserMaint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMS\frmUserMaint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CLASSES_MODULES\Impersonator.vb" />
+    <Compile Include="CLASSES_MODULES\Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmViewSplistComp.Designer.vb">
+      <DependentUpon>frmViewSplistComp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SPLIST_DTL\frmViewSplistComp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmBasicPriceLvl.resx">
+      <DependentUpon>frmBasicPriceLvl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmModBasicPriceLvl.resx">
+      <DependentUpon>frmModBasicPriceLvl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmPriceLvlProfile.resx">
+      <DependentUpon>frmPriceLvlProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmPriceLvlProfileMntnc.resx">
+      <DependentUpon>frmPriceLvlProfileMntnc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmSelectBasicPrice.resx">
+      <DependentUpon>frmSelectBasicPrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmSelectTest.resx">
+      <DependentUpon>frmSelectTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\BATCH_LIST.resx">
+      <DependentUpon>BATCH_LIST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BASIC_PRICE_LEVEL\frmSelBscPrcLvl.resx">
+      <DependentUpon>frmSelBscPrcLvl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmIMH_IMPORT.resx">
+      <DependentUpon>frmIMH_IMPORT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmImprtBscPrice.resx">
+      <DependentUpon>frmImprtBscPrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMS\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMS\frmUpdatePatch.resx">
+      <DependentUpon>frmUpdatePatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmViewIMHComp.resx">
+      <DependentUpon>frmViewIMHComp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SENDIN SPLIST\frmSendOutSplistMaintenance.resx">
+      <DependentUpon>frmSendOutSplistMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST MASTER LIST\frmSPlistMasterList.resx">
+      <DependentUpon>frmSPlistMasterList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmCopyMultiTestcode.resx">
+      <DependentUpon>frmCopyMultiTestcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmBasicPrice.resx">
+      <DependentUpon>frmBasicPrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMS\frmConfig_Udpate.resx">
+      <DependentUpon>frmConfig_Udpate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmCopy.resx">
+      <DependentUpon>frmCopy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmCopyTestcode.resx">
+      <DependentUpon>frmCopyTestcode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmDTIList.resx">
+      <DependentUpon>frmDTIList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmExpGrp.resx">
+      <DependentUpon>frmExpGrp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmExportBasic.resx">
+      <DependentUpon>frmExportBasic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmGenExcept.resx">
+      <DependentUpon>frmGenExcept.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmGEN_SPLIST.resx">
+      <DependentUpon>frmGEN_SPLIST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmIMH_Historical.resx">
+      <DependentUpon>frmIMH_Historical.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmImportIMH.resx">
+      <DependentUpon>frmImportIMH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMS\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmMD_IMH.resx">
+      <DependentUpon>frmMD_IMH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmMD_SPLIST.resx">
+      <DependentUpon>frmMD_SPLIST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmPackage.resx">
+      <DependentUpon>frmPackage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmPriceList.resx">
+      <DependentUpon>frmPriceList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmPriceUpdateSceme.resx">
+      <DependentUpon>frmPriceUpdateSceme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmSingle.resx">
+      <DependentUpon>frmSingle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ITEM_MASTERH\frmSingleIMH.resx">
+      <DependentUpon>frmSingleIMH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmSPExp.resx">
+      <DependentUpon>frmSPExp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMS\frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmSPLIST_REPORT.resx">
+      <DependentUpon>frmSPLIST_REPORT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmSPPrv.resx">
+      <DependentUpon>frmSPPrv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmSyncPriceList.resx">
+      <DependentUpon>frmSyncPriceList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMS\frmUserMaint.resx">
+      <DependentUpon>frmUserMaint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SPLIST_DTL\frmViewSplistComp.resx">
+      <DependentUpon>frmViewSplistComp.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="money_ebG_icon.ico" />
+    <None Include="packages.config" />
+    <None Include="Resources\lg.comet-spinner1.gif" />
+    <None Include="Resources\icons8-process-50.png" />
+    <None Include="Resources\icons8-process-100.png" />
+    <None Include="Resources\icons8-import-321.png" />
+    <None Include="Resources\lg.comet-spinner.gif" />
+    <None Include="Resources\icons8-import-32.png" />
+    <None Include="Resources\Webp.net-resizeimage %281%29.png" />
+    <None Include="Resources\Webp.net-resizeimage.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\refresh.ico" />
+    <None Include="Resources\Export.ico" />
+    <None Include="Resources\icons8-import-48.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
