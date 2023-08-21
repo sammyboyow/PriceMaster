@@ -1,0 +1,403 @@
+D:\SAP\programs\PriceMaster\PriceMaster\bin\x86\Debug\PriceMaster.exe.config
+D:\SAP\programs\PriceMaster\PriceMaster\bin\x86\Debug\PriceMaster.exe
+D:\SAP\programs\PriceMaster\PriceMaster\bin\x86\Debug\PriceMaster.pdb
+D:\SAP\programs\PriceMaster\PriceMaster\bin\x86\Debug\PriceMaster.xml
+D:\SAP\programs\PriceMaster\PriceMaster\bin\x86\Debug\Oracle.DataAccess.dll
+D:\SAP\programs\PriceMaster\PriceMaster\bin\x86\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.Cache
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.exe
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.xml
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.pdb
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbprojResolveAssemblyReference.cache
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\x86\Debug\DevComponents.DotNetBar2.dll
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\x86\Debug\DevComponents.DotNetBar2.xml
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\PriceMaster.exe.config
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+D:\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Oracle.DataAccess.dll
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.exe
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.xml
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.pdb
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Oracle.DataAccess.dll
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbprojResolveAssemblyReference.cache
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+\\192.171.10.246\d$\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.Cache
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPriceLvl.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectBasicPrice.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectTest.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyMultiTestcode.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.Cache
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.exe
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.xml
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.pdb
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmModBasicPriceLvl.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPlistMasterList.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelBscPrcLvl.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfile.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfileMntnc.resources
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbprojAssemblyReference.cache
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CoreCompileInputs.cache
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CopyComplete
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Oracle.DataAccess.dll
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.dll
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.xml
+D:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSendOutSplistMaintenance.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.xml
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPriceLvl.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmModBasicPriceLvl.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfile.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfileMntnc.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectBasicPrice.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectTest.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelBscPrcLvl.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSendOutSplistMaintenance.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPlistMasterList.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyMultiTestcode.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.cache
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.exe
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.xml
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.pdb
+F:\BogzFile\D\SAP\PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbprojResolveAssemblyReference.cache
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Oracle.DataAccess.dll
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.xml
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPriceLvl.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmModBasicPriceLvl.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfile.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfileMntnc.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectBasicPrice.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectTest.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelBscPrcLvl.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSendOutSplistMaintenance.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPlistMasterList.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyMultiTestcode.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.cache
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CoreCompileInputs.cache
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CopyComplete
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.exe
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.xml
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.pdb
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.dll
+D:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbprojAssemblyReference.cache
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.dll
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\DevComponents.Instrumentation.xml
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPriceLvl.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmModBasicPriceLvl.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfile.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfileMntnc.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectBasicPrice.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectTest.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSelBscPrcLvl.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSendOutSplistMaintenance.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPlistMasterList.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyMultiTestcode.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.cache
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CoreCompileInputs.cache
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CopyComplete
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.exe
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.xml
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\obj\x86\Debug\PriceMaster.pdb
+G:\MJL PROGRAMS\PriceMaster\PriceMaster\bin\Debug\stdole.dll
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\PriceMaster.exe.config
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\PriceMaster.exe
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\PriceMaster.pdb
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\PriceMaster.xml
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\stdole.dll
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.vbprojAssemblyReference.cache
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.ResolveComReference.cache
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPriceLvl.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmModBasicPriceLvl.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfile.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceLvlProfileMntnc.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectBasicPrice.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSelectTest.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.BATCH_LIST.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSelBscPrcLvl.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_IMPORT.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmImprtBscPrice.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmLogin.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmUpdatePatch.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmViewIMHComp.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSendOutSplistMaintenance.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSPlistMasterList.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyMultiTestcode.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmBasicPrice.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmConfig_Udpate.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmCopy.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmCopyTestcode.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmDTIList.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmExpGrp.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmExportBasic.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmGenExcept.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmGEN_SPLIST.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmIMH_Historical.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmImportIMH.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmMain.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_IMH.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmMD_SPLIST.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmPackage.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceList.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmPriceUpdateSceme.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSingle.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSingleIMH.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSPExp.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSplash.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSPLIST_REPORT.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSPPrv.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmSyncPriceList.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmUserMaint.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.Resources.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.frmViewSplistComp.resources
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.GenerateResource.cache
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CoreCompileInputs.cache
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.vbproj.CopyComplete
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.exe
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.xml
+C:\Users\samuel\Desktop\Pricemaster1\Pricemaster\Price-Master\PriceMaster\obj\x86\Debug\PriceMaster.pdb

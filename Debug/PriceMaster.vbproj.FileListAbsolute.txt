@@ -1,0 +1,64 @@
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmMain.resources
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.exe
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.xml
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSingle.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSPPrv.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPackage.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+D:\SAP\Programs\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+D:\SAP\Programs\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+D:\SAP\Programs\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbproj.ResolveComReference.cache
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.Form1.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmMain.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPackage.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSingle.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSingleIMH.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSplash.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSPPrv.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmUserMaint.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.Resources.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbproj.GenerateResource.Cache
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.exe
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.xml
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.pdb
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPriceList.resources
+D:\SAP\Programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSyncPriceList.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPriceUpdateSceme.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe.config
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbproj.ResolveComReference.cache
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.exe
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.xml
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.pdb
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\bin\Debug\PriceMaster.exe
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\bin\Debug\PriceMaster.pdb
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\bin\Debug\PriceMaster.xml
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbprojResolveAssemblyReference.cache
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.Form1.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmMain.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPackage.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPriceList.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmPriceUpdateSceme.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSingle.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSingleIMH.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSplash.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSPPrv.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSyncPriceList.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmUserMaint.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.Resources.resources
+D:\SAP\UPDATE SAP\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbproj.GenerateResource.Cache
+D:\SAP\programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmImportIMH.resources
+D:\SAP\programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmSPExp.resources
+D:\SAP\programs\PriceMaster\PriceMaster\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SAP\programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.frmGEN_SPLIST.resources
+D:\SAP\programs\PriceMaster\PriceMaster\bin\Debug\Oracle.DataAccess.dll
+D:\SAP\programs\PriceMaster\PriceMaster\obj\Debug\PriceMaster.vbprojResolveAssemblyReference.cache
